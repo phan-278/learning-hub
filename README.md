@@ -1,4 +1,4 @@
 # learning-hub
-🧩 Multi-domain tech learning repo.  
-📘 Includes notes, summaries, and experiments.  
+🧩 Multi-domain tech learning repo.\n
+📘 Includes notes, summaries, and experiments.\n 
 🌱 Always evolving with new insights.
